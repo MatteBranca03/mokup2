@@ -51,7 +51,7 @@ namespace mokup2
         private void CheckBox_Checked(object sender, RoutedEventArgs e)
         {
             sld1.IsEnabled = true;
-            sld2.IsEnabled = true;
+            sld2.IsEnabled = true; 
         }
     }
 }
